@@ -1,9 +1,5 @@
 .DS_Store
 
-# examples
-*_files/
-*.dzi
-*.dzc
 
 *.py[co]
 
